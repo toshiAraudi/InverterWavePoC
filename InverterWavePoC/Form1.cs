@@ -20,7 +20,7 @@ namespace csvPoC
         string[] columns = null;
         int CLMLEN = 0;
         int INITPOINT = 100000;
-        int ITER = 10000;
+        int ITER = 1000;
 
         public Form1()
         {
