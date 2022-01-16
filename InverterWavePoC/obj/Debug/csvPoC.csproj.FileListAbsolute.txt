@@ -1,0 +1,10 @@
+C:\Users\Loli\source\repos\csvPoC\obj\Debug\csvPoC.csprojAssemblyReference.cache
+C:\Users\Loli\source\repos\csvPoC\obj\Debug\csvPoC.Form1.resources
+C:\Users\Loli\source\repos\csvPoC\obj\Debug\csvPoC.Properties.Resources.resources
+C:\Users\Loli\source\repos\csvPoC\obj\Debug\csvPoC.csproj.GenerateResource.cache
+C:\Users\Loli\source\repos\csvPoC\obj\Debug\csvPoC.csproj.CoreCompileInputs.cache
+C:\Users\Loli\source\repos\csvPoC\bin\Debug\csvPoC.exe.config
+C:\Users\Loli\source\repos\csvPoC\bin\Debug\csvPoC.exe
+C:\Users\Loli\source\repos\csvPoC\bin\Debug\csvPoC.pdb
+C:\Users\Loli\source\repos\csvPoC\obj\Debug\csvPoC.exe
+C:\Users\Loli\source\repos\csvPoC\obj\Debug\csvPoC.pdb
